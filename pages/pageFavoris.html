@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../fav.css">
+    <title>Ventes Immobilières - Accueil</title>
+</head>
+<body onload="loadCards()">
+    <header>
+        <div class="logo">
+            <img src="../image/LogoImmo.png" alt="Logo">
+        </div>
+
+        <nav class="liste">
+            <ul>
+                <li><a href="../pageAcceuil.html">Accueil</a></li>   <!--la balise pour css = 'a' pas li-->
+                <li><a href="pageAcheter.html">Acheter</a></li>
+                <li><a href="pageLouer.html">Louer</a></li>
+                <li><a href="pageFavoris.html">Favoris</a></li>
+                <li><a href="../Estimer.html">Réseaux</a></li>
+            </ul>
+        </nav>
+
+        
+
+        <div class="administrateur">
+            <a href="../pageAdmin.html">+</a>
+
+        </div>
+    </header>
+    <style>
+        .bien-Containers {
+            margin-top: 10%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; 
+        }
+        .BIENS h3, p, h5 {
+            padding-bottom: 2%;
+            padding-left: 5%;
+        }
+     
+      .BIENS{
+        border: solid 1px gray;
+        box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5);
+        width: 19%;
+        height: 20%; 
+        margin: 0px 20px;
+      }
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 30px;
+        }
+        .page-link {
+            padding: 5px 10px;
+            border: 1px solid #ddd;
+            border-radius: 30px;
+        }
+       
+        .BIENS img {
+            padding-bottom: 10%;
+            width: 100%;
+            height: 300px; 
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px; 
+        }
+
+
+    </style>
+    
+
+    <div class="slogan">
+        <h1>COUPS DE COEURS YMMOBI</h1>  
+    </div>
+    <div id="favorisContainer"></div>
+    <div id="pagination-container"></div>
+    <div id="bienContainers"></div>
+    <table id="data"></table>
+    <table id="tblFavorite">
+    </table>
+
+
+    <footer>
+        <div class="footer-block">
+            <h4>Site internet créé par Souad Vienne</h4>
+            <h4>®️ 2023</h4>
+        </div>
+        <div class="footer-separation">|</div>
+        <div class="footer-block">
+            <h2>A propos de nous</h2>
+            <h3>YmmobiLier en bref :</h3>
+            <p> YmmobiLier est la plateforme immobilière ultime. Notre mission est de simplifier l'immobilier en offrant
+                des solutions complètes pour acheter, vendre, louer et estimer des biens immobiliers. Avec une équipe d'experts 
+                passionnés et des outils technologiques avancés, nous rendons le processus immobilier plus transparent et plus 
+                accessible pour tous.</p>
+        </div>
+        <div class="footer-separation">|</div>
+        <div class="footer-block">
+            <h2>Nous contacter</h2><br>
+            <p>Numéro de téléphone : <a href="tel:+1234567890">+123 456 7890</a></p><br>
+            <p>Adresse e-mail : <a href="mailto:contact@ymmobilier.com">contact@ymmobilier.com</a></p><br>
+            <p>Adresse postale :
+                <address>
+                    123 Rue Jean de Merville<br>
+                    Code postal : 56100<br>
+                    Ville : Lorient<br>
+                    Pays : France
+                </address>
+            </p>
+        </div>
+        <div class="footer-separation">|</div>
+        <div class="footer-block">
+            <h3><a href="../pageAccueil.html">Accueil</a><br></h3>
+            <h3><a href="pageLouer.html">Louer</a><br></h3>
+            <h3><a href="pageAcheter.html">Acheter</a><br></h3>
+            <h3><a href="../pageEstimer.html">Réseaux</a><br></h3>
+            <h3><a href="../pageAdmin.html">Déposer une annonce</a><br></h3>
+        </div>
+    </footer>
+
+    <script src="../biens.js"></script>
+   
+</body>
+</html>
+
