@@ -1,0 +1,508 @@
+<AGENCEIMMOBILIÈRE>
+    <BIENS>
+        <ID>1</ID>
+        <image>../image/chambre/-1.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>650/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+        
+    </BIENS>
+
+    <BIENS>
+        <ID>2</ID>
+        <image>../image/chambre/-2.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>453/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    
+    <BIENS>
+        <ID>3</ID>
+        <image>../image/chambre/-3.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>564/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>4</ID>
+        <image>../image/chambre/-4.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>QUEVEN</LOCALISATION>
+        <PRIX>320/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>5</ID>
+        <image>../image/chambre/-5.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>880/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>6</ID>
+        <image>../image/chambre/-6.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOMEUR</LOCALISATION>
+        <PRIX>860/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>7</ID>
+        <image>../image/chambre/-7.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>PONT-SCORFF</LOCALISATION>
+        <PRIX>775/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>8</ID>
+        <image>../image/chambre/-8.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR</LOCALISATION>
+        <PRIX>1175/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>9</ID>
+        <image>../image/chambre/-9.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>GESTEL</LOCALISATION>
+        <PRIX>800/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>10</ID>
+        <image>../image/chambre/-10.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LOCMIQUELIC</LOCALISATION>
+        <PRIX>300/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>11</ID>
+        <image>../image/chambre/-11.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>768/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>12</ID>
+        <image>../image/chambre/-19.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>345/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>13</ID>
+        <image>../image/chambre/-12.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>CAUDAN</LOCALISATION>
+        <PRIX>/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>14</ID>
+        <image>../image/chambre/-13.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>CAUDAN</LOCALISATION>
+        <PRIX>298/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>15</ID>
+        <image>../image/chambre/-14.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>609/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>16</ID>
+        <image>../image/chambre/-15.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>1340/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>17</ID>
+        <image>../image/chambre/-16.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>CLEGUER</LOCALISATION>
+        <PRIX>550/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>18</ID>
+        <image>../image/chambre/-17.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>KERVIGNAC</LOCALISATION>
+        <PRIX>675/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>19</ID>
+        <image>../image/chambre/-18.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>700/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>20</ID>
+        <image>../image/chambre/-20.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR PLAGE</LOCALISATION>
+        <PRIX>300/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>21</ID>
+        <image>../image/chambre/-21.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>640/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>22</ID>
+        <image>../image/chambre/-22.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOEMEUR</LOCALISATION>
+        <PRIX>530/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>23</ID>
+        <image>../image/chambre/-23.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>1100/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>24</ID>
+        <image>../image/chambre/-24.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>465/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>25</ID>
+        <image>../image/chambre/-25.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>QUEVEN</LOCALISATION>
+        <PRIX>980/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>26</ID>
+        <image>../image/chambre/-26.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>2300/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>27</ID>
+        <image>../image/chambre/-27.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>750/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>28</ID>
+        <image>../image/chambre/-28.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>900/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>29</ID>
+        <image>../image/chambre/-29.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>735/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>30</ID>
+        <image>../image/chambre/-30.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOEMEUR</LOCALISATION>
+        <PRIX>240/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>31</ID>
+        <image>../image/chambre/-31.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>650/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>32</ID>
+        <image>../image/chambre/-32.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>GESTEL</LOCALISATION>
+        <PRIX>450/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>33</ID>
+        <image>../image/chambre/-33.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>760/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>34</ID>
+        <image>../image/chambre/-34.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LOCMIQUELIC</LOCALISATION>
+        <PRIX>210/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>35</ID>
+        <image>../image/chambre/-35.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>RIANTEC</LOCALISATION>
+        <PRIX>780/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>36</ID>
+        <image>../image/chambre/-36.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>PORT-LOUIS</LOCALISATION>
+        <PRIX>980/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>37</ID>
+        <image>../image/chambre/-37.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>660/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>38</ID>
+        <image>../image/chambre/-38.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>1154/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>39</ID>
+        <image>../image/chambre/-39.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>950/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>40</ID>
+        <image>../image/chambre/-40.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>278/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>41</ID>
+        <image>../image/chambre/-41.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>655/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>42</ID>
+        <image>../image/chambre/-42.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>450/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>43</ID>
+        <image>../image/chambre/-43.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>430/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>44</ID>
+        <image>../image/chambre/-44.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>440/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>45</ID>
+        <image>../image/chambre/-45.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>600/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>46</ID>
+        <image>../image/chambre/-46.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>1700/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>47</ID>
+        <image>../image/chambre/-47.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>430/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>48</ID>
+        <image>../image/chambre/-48.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>1000/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>49</ID>
+        <image>../image/chambre/-49.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>730/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>50</ID>
+        <image>../image/chambre/-50.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>400/mois</PRIX>
+        <CHAUFFAGE>Chauffage: GES</CHAUFFAGE>
+    </BIENS>
+
+    
+</AGENCEIMMOBILIÈRE>
+

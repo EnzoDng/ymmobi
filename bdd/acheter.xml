@@ -1,0 +1,507 @@
+<AGENCEIMMOBILIÈRE>
+    <BIENS>
+        <ID>1</ID>
+        <image>../image/salon/-1.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>100 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+
+    <BIENS>
+        <ID>2</ID>
+        <image>../image/salon/-2.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>870 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    
+    <BIENS>
+        <ID>3</ID>
+        <image>../image/salon/-3.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>800 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>4</ID>
+        <image>../image/salon/-4.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>QUEVEN</LOCALISATION>
+        <PRIX>670 500 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>5</ID>
+        <image>../image/salon/-5.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>1 300 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>6</ID>
+        <image>../image/salon/-6.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOMEUR</LOCALISATION>
+        <PRIX>1 400 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>7</ID>
+        <image>../image/salon/-7.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>PONT-SCORFF</LOCALISATION>
+        <PRIX>700 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>8</ID>
+        <image>../image/salon/-8.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR</LOCALISATION>
+        <PRIX>867 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>9</ID>
+        <image>../image/salon/-9.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>GESTEL</LOCALISATION>
+        <PRIX>540 300 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>10</ID>
+        <image>../image/salon/-10.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LOCMIQUELIC</LOCALISATION>
+        <PRIX>37 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>11</ID>
+        <image>../image/salon/-11.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>429 700 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>12</ID>
+        <image>../image/salon/-19.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>660 800 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>13</ID>
+        <image>../image/salon/-12.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>CAUDAN</LOCALISATION>
+        <PRIX>890 200 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>14</ID>
+        <image>../image/salon/-13.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>CAUDAN</LOCALISATION>
+        <PRIX>590 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>15</ID>
+        <image>../image/salon/-14.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>1 000 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>16</ID>
+        <image>../image/salon/-15.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>807 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>17</ID>
+        <image>../image/salon/-16.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>CLEGUER</LOCALISATION>
+        <PRIX>743 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>18</ID>
+        <image>../image/salon/-17.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>KERVIGNAC</LOCALISATION>
+        <PRIX>704 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>19</ID>
+        <image>../image/salon/-18.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>420 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>20</ID>
+        <image>../image/salon/-20.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR PLAGE</LOCALISATION>
+        <PRIX>15 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>21</ID>
+        <image>../image/salon/-21.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LARMOR-PLAGE</LOCALISATION>
+        <PRIX>760 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>22</ID>
+        <image>../image/salon/-22.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOEMEUR</LOCALISATION>
+        <PRIX>580 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>23</ID>
+        <image>../image/salon/-23.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>530 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>24</ID>
+        <image>../image/salon/-24.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>40 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>25</ID>
+        <image>../image/salon/-25.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>QUEVEN</LOCALISATION>
+        <PRIX>680 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>26</ID>
+        <image>../image/salon/-26.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>3 100 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>27</ID>
+        <image>../image/salon/-27.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>546 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>28</ID>
+        <image>../image/salon/-28.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>600 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>29</ID>
+        <image>../image/salon/-29.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>600 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>30</ID>
+        <image>../image/salon/-30.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>PLOEMEUR</LOCALISATION>
+        <PRIX>20 600 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>31</ID>
+        <image>../image/salon/-31.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>700 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>32</ID>
+        <image>../image/salon/-32.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>GESTEL</LOCALISATION>
+        <PRIX>640 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>33</ID>
+        <image>../image/salon/-33.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LOMNER</LOCALISATION>
+        <PRIX>1 400 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>34</ID>
+        <image>../image/salon/-34.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LOCMIQUELIC</LOCALISATION>
+        <PRIX>200 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>35</ID>
+        <image>../image/salon/-35.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>RIANTEC</LOCALISATION>
+        <PRIX>990 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>36</ID>
+        <image>../image/salon/-36.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>PORT-LOUIS</LOCALISATION>
+        <PRIX>900 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>37</ID>
+        <image>../image/salon/-37.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>650 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>38</ID>
+        <image>../image/salon/-38.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>430 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>39</ID>
+        <image>../image/salon/-39.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>640 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>40</ID>
+        <image>../image/salon/-40.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>17 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+       <BIENS>
+        <ID>41</ID>
+        <image>../image/salon/-41.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>52,69m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>654 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>42</ID>
+        <image>../image/salon/-42.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30,1m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>100 800 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>43</ID>
+        <image>../image/salon/-43.jpg</image>
+        <BIEN> Maison </BIEN>
+        <SURFACE>110m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>540 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>44</ID>
+        <image>../image/salon/-44.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>30m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>77 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>45</ID>
+        <image>../image/salon/-45.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>95,42m2</SURFACE>
+        <NBPIECE>5 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>540 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>46</ID>
+        <image>../image/salon/-46.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>132m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>630 600 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>47</ID>
+        <image>../image/salon/-47.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>67m2</SURFACE>
+        <NBPIECE>3 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>200 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>48</ID>
+        <image>../image/salon/-48.jpg</image>
+        <BIEN>Maison</BIEN>
+        <SURFACE>96m2</SURFACE>
+        <NBPIECE>6 pièce(s)</NBPIECE>
+        <LOCALISATION>LORIENT</LOCALISATION>
+        <PRIX>1 780 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>    
+        <ID>49</ID>
+        <image>../image/salon/-49.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>88m2</SURFACE>
+        <NBPIECE>4 pièce(s)</NBPIECE>
+        <LOCALISATION>LANESTER</LOCALISATION>
+        <PRIX>530 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+    <BIENS>
+        <ID>50</ID>
+        <image>../image/salon/-50.jpg</image>
+        <BIEN>Appartement</BIEN>
+        <SURFACE>15,16m2</SURFACE>
+        <NBPIECE>1 pièce(s)</NBPIECE>
+        <LOCALISATION>GUIDEL</LOCALISATION>
+        <PRIX>7 000 euros</PRIX>
+        <CHAUFFAGE>chauffage : DPE</CHAUFFAGE>
+    </BIENS>
+
+    
+</AGENCEIMMOBILIÈRE>
+
