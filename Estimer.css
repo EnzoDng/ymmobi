@@ -1,0 +1,200 @@
+*{
+    text-decoration: none;          /* decoration pas style */
+}
+a{
+    color: beige;
+}
+/* Réinitialisation des styles par défaut du navigateur */
+body, h1, h2, p, ul, li {
+    margin: 0;   
+}
+
+/*debut entete, */
+header{
+    
+    background-color:#7C7C7C;
+    color: white;  /*color = change couleur texte dans tout le header pas besoin de ul*/
+    display: flex; 
+    align-items: center;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+
+    position: relative;
+
+}
+
+.logo img{      /*preciser img pour changer image */ 
+    width: 80px; /*taille logo */
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 20px; /* mttre premiere valeur verticale, seconde horyzontale*/
+    
+}
+nav a{
+    color: white;
+    font-weight: bold;      /*bold pour texte en gras*/
+}
+
+.administrateur{
+    margin-left:auto;
+    padding-right: 20px ;
+    font-size: 30px;
+    
+}
+
+.administrateur a{
+    border: 2px solid white;
+    border-radius: 20%;
+    padding: 7px;
+   
+}
+/*(fin entete) */
+
+
+
+.Video video{
+    margin-right: 20px; 
+    margin-left: 23cm;   
+}
+
+video{
+    box-shadow: 0 6px 20px;
+    margin-right: 20cm;
+}
+
+body{
+    background-image: url(image/FondRéseau.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:gray;
+    
+}
+
+.boxReseaux{
+    border: 2px solid gray;
+    padding: 7px;
+    width: 7cm;
+    margin: 2cm auto;
+    
+}
+
+.rectangleReseaux{
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: 3cm;
+    margin-left: 70%;
+    margin-bottom: 1cm;
+    width: 4cm;
+}
+.nomAppli{
+    margin-top: 1cm;
+    
+}
+.nomAppli li{
+    display: inline;
+    margin: auto;
+    margin-top: 20cm;    
+}
+
+
+.nomAppli a{
+    color:grey;
+    margin-left: 10px;    
+}
+
+.rectangleEquipe{
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: 3cm;
+    margin-left: 58%;
+    width: 6cm;
+    
+}
+
+.rectangleEquipe h5{
+    color: gray;
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+}
+
+
+.rectangleEquipe img{
+    width: 5cm;
+    height: 3cm;
+    
+}
+
+
+.rectangleStory{
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: 3cm;
+    margin-left: 58%;
+    margin-top: 1cm;
+}
+
+.rectangleStory h4{
+    color: gray;
+    justify-content: center;
+}
+
+
+
+
+/*, debut footer*/
+
+
+
+footer{
+    background-color: #333;
+    width: 100%;
+    color: white;
+    display: flex;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+    padding: 20px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footer-block{
+    padding: 30px;
+    text-align: center;
+    max-width: 400px;
+}
+.footer-separation{
+    font-size: 10rem;
+    vertical-align: middle;
+    margin: 30px 30px 10px;
+    width: 1px;
+   
+}
+/*fin footer*/
+
+.card img {
+    padding-bottom: 10%;
+    width: 100%;
+    height: 300px; 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px; 
+}

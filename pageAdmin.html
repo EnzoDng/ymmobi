@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+rel="stylesheet"
+integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+crossorigin="anonymous">``
+<link rel="stylesheet" href="admin.css">
+<title>Ventes Immobilières - Accueil</title>
+</head>
+
+
+<body>
+
+<!--debut header bases -->
+<header>
+<div class="logo">
+<img src="./image/LogoImmo.png" alt="Logo">
+</div>
+
+<nav class="liste">
+<ul>
+<li><a href="./pageAcceuil.html">Acceuil</a></li> <!--a balise pour
+css = 'a' pas -->
+<li><a href="pages/pageAcheter.html">Acheter</a></li>
+<li><a href="pages/pageLouer.html">Louer</a></li>
+<li><a href="Estimer.html">Réseaux</a></li>
+</ul>
+</nav>
+
+<div class="administrateur">
+<a href="pageAdmin.html">+</a>
+
+</div>
+</header>
+<!--- fin header base -->
+
+<corps>
+<div class="interfaceAdmin">
+<h2> Administrateur</h2>
+
+<form>
+<div class="pseudoAdmin">
+<label for="pseudo">Pseudo:</label>
+<input type="email" id="pseudo" required>
+</div>
+<div class="mdpAdmin">
+<label for="mdp">Mot de passe:</label>
+<input type="password" id="mdp" required>
+</div>
+<button type="button" onclick="Connection()">Se connecter</button>
+
+<p id="error-message"></p>
+</form>
+</div>
+<script src ="biens.js"></script>
+
+<div class="fondecran"></div>
+</corps>
+
+
+<!--fin balise corps -->
+
+<br><br>
+<table id="data"></table>
+</body>
+</html>

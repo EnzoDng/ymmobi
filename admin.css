@@ -1,0 +1,148 @@
+
+*{
+    text-decoration: none;          /* decoration pas style */
+}
+a{
+    color: beige;
+}
+/* Réinitialisation des styles par défaut du navigateur */
+body, h1, h2, p, ul, li {
+    margin: 0;   
+}
+
+
+header{
+    background-color:#7C7C7C;
+    color: white;  /*color = change couleur texte dans tout le header pas besoin de ul*/
+    position: fixed;
+    display: flex; 
+    align-items: center;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+    
+
+}
+
+.logo img{      /*preciser img pour changer image */ 
+    width: 80px; /*taille logo */
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 20px; /* mettre premiere valeur verticale, seconde horyzontale*/
+    
+}
+nav a{
+    color: white;
+    font-weight: bold;      /*bold pour texte en gras*/
+
+}
+.administrateur{
+    margin-left:auto;
+    padding-right: 20px ;
+    font-size: 30px;
+    
+}
+
+.administrateur a{
+    border: 2px solid white;
+    border-radius: 20%;
+    padding: 7px;
+   
+}
+/*(fin entete) */
+
+
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    color:antiquewhite;
+    margin-bottom: 100px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./image/deuxiemefond.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    min-height: 100vh;
+
+    position: relative;
+
+
+}
+
+
+
+h2{
+    position: relative;
+    justify-content: center;
+}
+
+
+
+footer{
+    background-color: #333;
+    width: 100%;
+    color: white;
+    display: flex;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+    padding: 20px;
+    position: absolute;
+    bottom:o;
+    left:0;
+    right: 0;
+    
+   
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.footer-block{
+    padding: 30px;
+    text-align: center;
+    max-width: 400px;
+}
+.footer-separation{
+    font-size: 10rem;
+    vertical-align: middle;
+    margin: 30px 30px 10px;
+    width: 1px;
+   
+}
+/*fin du footer */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

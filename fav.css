@@ -1,0 +1,119 @@
+*{
+    text-decoration: none;          /* decoration pas style */
+}
+a{
+    color: beige;
+}
+/* Réinitialisation des styles par défaut du navigateur */
+body, h1, h2, p, ul, li {
+    margin: 0;   
+}
+
+/*debut entete, */
+header{
+    
+    background-color:#7C7C7C;
+    color: white;  /*color = change couleur texte dans tout le header pas besoin de ul*/
+    display: flex; 
+    align-items: center;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+
+    position: relative;
+
+}
+
+.logo img{      /*preciser img pour changer image */ 
+    width: 80px; /*taille logo */
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 20px; /* mttre premiere valeur verticale, seconde horyzontale*/
+    
+}
+nav a{
+    color: white;
+    font-weight: bold;      /*bold pour texte en gras*/
+}
+
+.administrateur{
+    margin-left:auto;
+    padding-right: 20px ;
+    font-size: 30px;
+    
+}
+
+.administrateur a{
+    border: 2px solid white;
+    border-radius: 20%;
+    padding: 7px;
+   
+}
+/*(fin entete) */
+
+
+.fond{  
+    flex-direction: column;
+    justify-content: space-around;
+    display: flex;
+    height: 30cm;
+    
+}
+.slogan h1{
+    margin-left: 12cm;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+    margin-top: 3cm;
+    margin-bottom: 30cm;        /* hauteur footeur depend margin bottom slogon*/
+}
+
+
+
+body{
+    background-image: url(image/fondFav.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial,  sans-serif;
+    position:relative;   
+    
+}
+
+
+
+
+/*, debut footer*/
+
+
+
+footer{
+    background-color: #333;
+    width: 100%;
+    color: white;
+    display: flex;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+    padding: 20px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.footer-block{
+    padding: 30px;
+    text-align: center;
+    max-width: 400px;
+}
+.footer-separation{
+    font-size: 10rem;
+    vertical-align: middle;
+    margin: 30px 30px 10px;
+    width: 1px;
+   
+}
+/*fin footer*/
+

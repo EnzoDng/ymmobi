@@ -1,0 +1,193 @@
+*{
+    text-decoration: none;          /* decoration pas style */
+}
+a{
+    color: beige;
+}
+/* Réinitialisation des styles par défaut du navigateur */
+body, h1, h2, p, ul, li {
+    margin: 0;   
+}
+
+/*debut entete, */
+header{
+    
+    background-color:#7C7C7C;
+    color: white;  /*color = change couleur texte dans tout le header pas besoin de ul*/
+    display: flex; 
+    align-items: center;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+
+    position: relative;
+
+}
+
+.logo img{      /*preciser img pour changer image */ 
+    width: 80px; /*taille logo */
+    
+}
+
+nav li{
+    display: inline;
+    margin: 0 20px; /* mttre premiere valeur verticale, seconde horyzontale*/
+    
+    
+}
+nav a{
+    color: white;
+    font-weight: bold;      /*bold pour texte en gras*/
+}
+
+.administrateur{
+    margin-left:auto;
+    padding-right: 20px ;
+    font-size: 30px;
+
+    
+}
+
+.administrateur a{
+    border: 2px solid white;
+    border-radius: 20%;
+    padding: 7px;
+    margin-left: 34cm;
+   
+}
+/*(fin entete) */
+
+body{
+    background-color:antiquewhite;
+    background-size: cover ;
+    background-position: center;
+    font-family: Arial,  sans-serif;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    
+       
+}
+
+p{
+    color: unset;
+    margin-left: 0;
+}
+
+
+.table td,
+.table th {
+    background-color: rgba(255, 255, 255, 0); /*0 = opacité */
+}
+
+
+
+
+/*, debut footer*/
+
+
+
+
+
+footer{
+    background-color: #333;
+    width: 100%;
+    color: white;
+    display: flex;
+    border-top: 2px solid white; /*  Taille, gras, couleur   */
+    border-bottom:2px solid white;
+    padding: 20px;
+    position: absolute;
+    
+   
+    
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.footer-block{
+    padding: 30px;
+    text-align: center;
+    max-width: 400px;
+}
+.footer-separation{
+    font-size: 10rem;
+    vertical-align: middle;
+    margin: 30px 30px 10px;
+    width: 1px;
+   
+}
+/*fin footer */
+
+
+/********************boutton offre***********************************************/
+.reservation-button {
+    background-color:cadetblue;
+    color: #fff;
+    border: none;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+    margin: 20px auto; 
+    margin-left: 20px;
+    padding: 20px 40px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+/************************************recherche bien*****************************************/
+
+.card-info h3, p, h5 {
+    padding-bottom: 2%;
+    padding-left: 5%;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 20px;
+}
+.card {
+    border: 1px solid #ddd;
+    margin: 10px;
+    width: 19%;
+    height: 20%;
+    
+}
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.page-link {
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+}
+.page-link:hover {
+    background-color: #0b81b8;
+}
+.matched {
+    display: block !important; /* Utilisez !important pour forcer l'affichage */
+}
+
+
+/* Style pour la barre de recherche */
+.search-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 8px 15px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
